@@ -1,2 +1,2 @@
 # gateway-ai
-Constructed a chatbot that reads content from a text file or pulls information from the OpenAI database to assist the user. The main components of the code include setting up the OpenAI API, reading a document, and continuously interacting with the user through a text-based interface.
+Constructed a chatbot that reads content from a text file or pulls information from the OpenAI database to assist the user. The main components of the code include connecting the chatbot to the OpenAI API, parsing a text document for information, and continuously interacting with the user through a text-based interface.
