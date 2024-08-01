@@ -1,2 +1,2 @@
 # gateway-ai
-Interacting with OpenAI's GPT-3.5 language model. This chatbot can read content from a text file and uses that content as a context to provide more informed responses to user queries. Or, the chatbot can pull information from the OpenAI API to assist the user. The main components of the code include setting up the OpenAI API, reading a document, and continuously interacting with the user through a text-based interface
+Constructed a chatbot that reads content from a text file or pulls information from the OpenAI API to assist the user. The main components of the code include setting up the OpenAI API, reading a document, and continuously interacting with the user through a text-based interface.
