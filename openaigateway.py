@@ -17,7 +17,7 @@ def read_document(file_path):
 # Function to create model with context
 def interact_with_openai(prompt):
     # Load the document content from a file
-    document_content = read_document(f"<<Path to text document\\data.txt")
+    document_content = read_document(f"<<Path to text document>>\\data.txt")
       
     # Combine the document content and user prompt into the full prompt
     full_prompt = f"Document: {document_content}\n\nUser: {prompt}\nBot:"
